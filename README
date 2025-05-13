@@ -1,0 +1,4 @@
+-The NLPProject<num> files were for the first three weeks of work on the project
+   -They are mostly junk and experimentation with post processing and models to find and start tweaking a working model
+-The <Frame Element>FE files have cleaner, labeled final code for the models, including the two post processing tecniques
+       -However, the Time FE got the best strict match accuracy with the simples post processing tecnique, so these results can be found at the bottom of NLPProject3.ipynb
